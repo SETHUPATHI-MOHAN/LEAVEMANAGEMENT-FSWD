@@ -1,0 +1,5 @@
+{
+  "name": "AI Leave Manager",
+  "description": "A simple, visually appealing web application for managing employee leave requests, featuring an AI-powered leave type suggestion based on the reason provided.",
+  "requestFramePermissions": []
+}
